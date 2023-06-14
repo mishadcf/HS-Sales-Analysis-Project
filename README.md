@@ -10,9 +10,10 @@ I uploaded to Google Cloud in order to do further EDA with BigQuery
 
 Skills/ Tech Stack 
 
--ETL
--Data Cleaning
--Business Intelligence
--SQL
+-ETL,
+-Data Cleaning,
+-Business Intelligence,
+-SQL,
 -Python, Pandas, Jupyter Notebooks
 -Tableau 
+-Google Cloud/ BigQuery
