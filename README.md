@@ -1,4 +1,6 @@
-HS Sales Analysis Project
+# HS Sales Analysis Project
+
+## My first real world data project. 
 
 I gathered data from Airbnb, Booking.com and our website to gather insight on our bookings. My father owns a hospitality startup, for which I run all the online functions: website maintenance, marketing and data management.
 
